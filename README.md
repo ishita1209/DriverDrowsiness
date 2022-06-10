@@ -1,0 +1,2 @@
+# DriverDrowsiness
+This project presents a brief review of existing techniques used until now in the field of fatigue detection drivers. This system is designed to detect the drowsiness of the driver and alerts the driver through an alarm. It focuses on the eyes and mouth of the driver and determines if the person is drowsy or yawning. If the driver is Drowsy and close eyes for more than a certain period of time the alarm activates thus alerting the driver.
